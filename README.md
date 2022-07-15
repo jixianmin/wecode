@@ -11,6 +11,7 @@
 7.git remote add origin '연결 하고자 하는 Repository의 주소'
 8.git pull origin main (Repository의 상태를 컴퓨터의 폴더에 동기화 시키기.)
 9.git add . git commit -m "커밋 메시지" git push origin master
+10.create pull request button missing(완료한 과제를 '구글 클래스룸'에 제출)
 
 ### 참고문헌
 
